@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: file:///C:\Users\vitus\OneDrive\Dokumente\Publii\sites\portfolio-website-emberger\preview/sitemap.xml

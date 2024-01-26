@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Portfolio Website Emberger</title>
+    <link href="https://luxury-crepe-c60cb8.netlify.app/feed.xml" rel="self" />
+    <link href="https://luxury-crepe-c60cb8.netlify.app" />
+    <updated>2024-01-26T13:33:00+01:00</updated>
+    <author>
+        <name>Vitus Emberger</name>
+    </author>
+    <id>https://luxury-crepe-c60cb8.netlify.app</id>
+
+    <entry>
+        <title>Projects</title>
+        <author>
+            <name>Vitus Emberger</name>
+        </author>
+        <link href="https://luxury-crepe-c60cb8.netlify.app/projects.html"/>
+        <id>https://luxury-crepe-c60cb8.netlify.app/projects.html</id>
+
+        <updated>2024-01-26T13:33:00+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Github https://github.com Azure https://azure.microsoft.com
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <h2 id="github">
+      Github
+    </h2>
+<div><a>https://github.com<a></div>
+
+    <h2 id="azure">
+      Azure
+    </h2>
+<div><a>https://azure.microsoft.com</a></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About me</title>
+        <author>
+            <name>Vitus Emberger</name>
+        </author>
+        <link href="https://luxury-crepe-c60cb8.netlify.app/steckbrief.html"/>
+        <id>https://luxury-crepe-c60cb8.netlify.app/steckbrief.html</id>
+
+        <updated>2024-01-26T13:28:45+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Personal Name: John Doe Age: 44 Hobbies WalkingTVVideo Games
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <h2 id="personallessbrgreater">
+      Personal<br>
+    </h2>
+
+  <p>
+    Name: John Doe
+<br>Age: 44
+  </p>
+
+    <h2 id="hobbies">
+      Hobbies
+    </h2>
+
+  <ul>
+    <li>Walking</li><li>TV</li><li>Video Games</li>
+  </ul>
+            ]]>
+        </content>
+    </entry>
+</feed>

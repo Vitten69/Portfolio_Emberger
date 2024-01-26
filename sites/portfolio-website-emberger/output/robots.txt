@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://luxury-crepe-c60cb8.netlify.app/sitemap.xml
